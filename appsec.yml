@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /home/bitrix/www/local/
+  - source: /
     destination:/home/bitrix/www/local/
